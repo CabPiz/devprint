@@ -22,26 +22,6 @@ Currículos autodeclarados não convencem recrutadores técnicos. O DevPrint res
 
 ---
 
-## Personas
-
-| Persona | Descrição |
-|---|---|
-| Dev em busca de emprego | Tem projetos privados relevantes que o GitHub público não mostra |
-| Dev sênior acelerando carreira | Anos de projetos privados que nenhuma ferramenta atual consegue expor |
-| Dev-empreendedor | Quer vitrine pública para seus próprios produtos sem construir um site do zero |
-
----
-
-## Modelo de receita
-
-| Plano | Preço | O que inclui |
-|---|---|---|
-| Free | R$ 0 | Até 3 repositórios · perfil público · currículo básico |
-| Pro | R$ 39/mês | Repositórios ilimitados · PDF avançado · analytics · domínio personalizado |
-| Teams | R$ 99/mês | Recrutadores avaliam candidatos com perfil DevPrint verificado |
-
----
-
 ## Status
 
 | Milestone | Descrição | Status |
